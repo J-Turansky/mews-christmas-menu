@@ -1,6 +1,109 @@
 {
   "title": "Mews Christmas Menu 2026",
-  "updated": null,
-  "totalResponses": 0,
-  "questions": []
+  "updated": "2026-10-02T11:03:39.316Z",
+  "totalResponses": 11,
+  "acceptingResponses": true,
+  "questions": [
+    {
+      "title": "Starters",
+      "kind": "pie",
+      "answered": 11,
+      "counts": [
+        {
+          "label": "Creamy Loaded Ricotta With Crispy Rosemary, Honey, Figs And Pecans With Toasted Sourdough ,(Available Gf)",
+          "count": 2
+        },
+        {
+          "label": "Aromatic Duck Pancakes With Spring Onion, Cucumber And Hoi Sin *£2.00 Supplement",
+          "count": 3
+        },
+        {
+          "label": "Scottish Smoked Salmon With Pickled Cucumber Ribbons, Caper And Leek Ash Butter With Thick Cut Bloomer. (Available Gf)",
+          "count": 0
+        },
+        {
+          "label": "Korean Crispy Fish Tacos With Gochujang Mayo And Chinese Pickles.",
+          "count": 2
+        },
+        {
+          "label": "Coconut And Parsnip Soup With Crispy Pancetta And Toasted Hazelnuts (Available Vg And Gf)",
+          "count": 2
+        },
+        {
+          "label": "Vegetable Spring Rolls With Scallions And Sweet Chilli Dipping Sauce (Vg)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "title": "Mains",
+      "kind": "pie",
+      "answered": 11,
+      "counts": [
+        {
+          "label": "Roast Turkey Breast Streaky Bacon Wrapped Chipolata Pork Chestnut And Cranberry Stuffing Honey Butter Glazed Parsnips Thyme And Garlic Roast Potatoes And Rich Turkey Jus. (Available Gf)",
+          "count": 5
+        },
+        {
+          "label": "Pan Roasted Fillet Of Sea Bass With A Saffron And Lemon Butter Sauce Chive And Roasted Spring Onion Mashed Potatoes And Glazed Fennel. (Gf)",
+          "count": 1
+        },
+        {
+          "label": "Wild Mushroom Spinach And Brie Wellington Misu Mushroom Jus. (V)",
+          "count": 0
+        },
+        {
+          "label": "Steak And Bordeaux 12 Hour Braised Beef Pie With Creamy Mash And A Shallot Jus.",
+          "count": 2
+        },
+        {
+          "label": "Slow Roasted Pork Belly Baked Coxes Pippin Apple Pancetta And Black Bomber Chedder Mashed Potato With Calvados Jus. (Gf)",
+          "count": 1
+        },
+        {
+          "label": "Mixed Nut, Parsnip, Spinach And Cranberry Meatless Meat Loaf With Red Wine Jus. (Gf)",
+          "count": 1
+        },
+        {
+          "label": "8oz Sirloin Steak Triple Cooked Chips Creamy Pepper Corn Sauce. (Gf) *£8 Supplement Please State Cooking Preference On Preorder.",
+          "count": 0
+        },
+        {
+          "label": "Are You Clucking Mad. Southern Fried Turkey Burger, Crispy Brie Wedge, Cranberry Glaze, Stuffing, Mayonnaise And Lettuce In A Toasted Bun Served With Seasoned Fries.",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "title": "Desert",
+      "kind": "pie",
+      "answered": 11,
+      "counts": [
+        {
+          "label": "White Chocolate Toffee And Baileys Cheese Cake.",
+          "count": 4
+        },
+        {
+          "label": "80s Old Skool Dinner Sponge With Icing Sprinkles And Pink Custard.",
+          "count": 1
+        },
+        {
+          "label": "Strawberry Trifle Pavlova. Meringue Nest Vanilla Custard Fresh Strawberry Compote Whipped Cream And Sprinkles. (Gf)",
+          "count": 2
+        },
+        {
+          "label": "Lemon Meringue Pie Posset Toasted Meringue And A Caramelised Puff Pastry Twist. (Gf Available)",
+          "count": 1
+        },
+        {
+          "label": "Cheese board English Brie Welsh Black Bomber Chedder Leicestershire Stilton Red Onion Jam Biscuits For Cheese Grapes And Apple. £6 Sup (Gf Available)",
+          "count": 2
+        },
+        {
+          "label": "Banana And Rum Tarte Tatin With Vegan Ice Cream. (Vg)",
+          "count": 1
+        }
+      ]
+    }
+  ]
 }
